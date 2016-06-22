@@ -1,4 +1,3 @@
-#!/bin/bash
 echo "Hello Jenkins"
 #yum install telnet
 sudo touch /opt/script.xml
