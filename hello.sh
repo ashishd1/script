@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Hello Jenkins"
 #yum install telnet
-touch /tmp/script.xml
-mkdir /tmp/hellofolder
+touch /home/script.xml
+mkdir /home/hellofolder
