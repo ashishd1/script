@@ -1,6 +1,6 @@
 ---
 - hosts: webhost
-  task: 
+  tasks: 
    - name: Install httpd service 
      yum: name=httpd state=latest
                                  
